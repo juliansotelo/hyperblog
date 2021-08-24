@@ -1,0 +1,3 @@
+Esto es una prueba con GIT
+desde platzi 
+archivo creado 4:33pm
